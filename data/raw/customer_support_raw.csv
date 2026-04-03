@@ -1,0 +1,21 @@
+ticket_id,customer_id,message,channel,priority,timestamp
+1,101,My payment failed again when I tried to check out.,email,high,3/01/2024 10:15
+2,102,The app keeps crashing every time I open the dashboard.,app,medium,4/01/2024 9:42
+3,103,I was double charged for my subscription this month.,email,high,5/01/2024 14:03
+4,104,Live chat is not loading on my laptop.,chat,low,6/01/2024 11:20
+5,105,I need help updating my account details.,email,medium,6/01/2024 16:45
+6,106,The confirmation email never arrived after my purchase.,email,medium,7/01/2024 8:12
+7,107,I can't reset my password. The link says it's expired.,app,high,7/01/2024 19:30
+8,108,The delivery tracking number is not valid.,email,low,8/01/2024 13:55
+9,109,Your website is very slow today. Is there maintenance?,chat,low,8/01/2024 17:22
+10,110,I want to cancel my order but the button doesn't work.,app,high,9/01/2024 9:01
+11,111,The new update removed features I use daily.,app,medium,9/01/2024 12:48
+12,112,My refund hasn't been processed after two weeks.,email,high,10/01/2024 15:10
+13,113,I keep getting logged out automatically.,app,medium,10/01/2024 18:27
+14,114,The chatbot gave me incorrect information.,chat,low,11/01/2024 10:05
+15,115,I accidentally ordered the wrong item. Can I change it?,email,medium,11/01/2024 14:39
+16,116,My promo code isn't being accepted.,app,low,12/01/2024 9:55
+17,117,The invoice I downloaded is blank.,email,medium,12/01/2024 11:22
+18,118,I can't upload my documents. It keeps failing.,app,high,12/01/2024 20:14
+19,119,The support phone number is not connecting.,chat,low,13/01/2024 8:47
+20,120,I need help understanding my billing history.,email,medium,13/01/2024 13:33
